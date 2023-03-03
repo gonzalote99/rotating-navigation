@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('https://raw.githubusercontent.com/ValdineiJunior/RotatingNavigation/main/assets/fonts/icomoon.eot?i9ldvg');
+  src: url('https://raw.githubusercontent.com/ValdineiJunior/RotatingNavigation/main/assets/fonts/icomoon.eot?i9ldvg#iefix') format('embedded-opentype'),
+  url('https://raw.githubusercontent.com/ValdineiJunior/RotatingNavigation/main/assets/fonts/icomoon.ttf?i9ldvg') format('truetype'),
+  url('https://raw.githubusercontent.com/ValdineiJunior/RotatingNavigation/main/assets/fonts/icomoon.uff?i9ldvg') format('uff'),
+  url('https://raw.githubusercontent.com/ValdineiJunior/RotatingNavigation/main/assets/fonts/icomoon.svg?i9ldvg#icomoon') format('svg');
+
+
+
+
+
+}
+
+
+[class^="icon-"], [class*=" icon-"]  {
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+
+
+.icon-instagram:before {
+  content: "\e903";
+
+}
+
+.icon-mail:before {
+  content: "\e900";
+}
+
+.icon-menu:before {
+content: "\e901";
+}
+
+.icon-x:before {
+  content: "\e902";
+}
+
+
+.icon-home:before {
+  content: "\e904";
+}
+
+
+
